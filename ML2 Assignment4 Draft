@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Exploring Global Greenhouse Gas Emission Patterns with Unsupervised Machine Learning</title>
+</head>
+<body>
+  <h1>INTRO</h1>
+  <p>This blog explores clustering CO₂ emissions using PCA and k-means.</p>
+  <a href="blog1.html">Read my full blog post</a>
+</body>
+</html>
